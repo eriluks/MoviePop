@@ -8,4 +8,4 @@ The application was created using [React](https://reactjs.org/) and it was style
 
 
 
-You can try the [Live Demo](https://moovie-44853.firebaseapp.com/adsearch).
+You can try the [Live Demo](https://moovie-44853.firebaseapp.com).
